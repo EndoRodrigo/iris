@@ -1,15 +1,12 @@
-# Proyecto Iris
 
-Estructura generada automáticamente.
+🌸 Proyecto IRIS — Clasificación con Machine Learning
+
+Este proyecto implementa un modelo de Machine Learning utilizando el famoso dataset Iris.
+El objetivo es entrenar un clasificador para predecir la especie de una flor a partir de características como:
+
+El proyecto está desarrollado en Python e incluye un ejemplo práctico de entrenamiento, evaluación y uso del modelo.
 
 ## ⚙️ Instalación y ejecución
-
-### 🔧 Requisitos
-
-```bash
-python -m venv env
-source env/bin/activate
-pip install -r requeriments.txt
 
 ### ▶️ Pasos
 
@@ -20,5 +17,13 @@ git clone [https://github.com/tu-usuario/ecommerce-springboot.git](https://githu
 cd iris
 ```
 
-pip install notebook
+
+### 🔧 Requisitos
+
+```bash
+python -m venv env
+source env/bin/activate
+pip install -r requeriments.txt
+``` 
+
 
