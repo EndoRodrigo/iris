@@ -2,7 +2,7 @@
 🌸 Proyecto IRIS — Clasificación con Machine Learning
 
 Este proyecto implementa un modelo de Machine Learning utilizando el famoso dataset Iris.
-El objetivo es entrenar un clasificador para predecir la especie de una flor a partir de características como:
+El objetivo es entrenar un clasificador para predecir la especie de una flor.
 
 El proyecto está desarrollado en Python e incluye un ejemplo práctico de entrenamiento, evaluación y uso del modelo.
 
