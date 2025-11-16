@@ -18,3 +18,7 @@ pip install -r requeriments.txt
 ```bash
 git clone [https://github.com/tu-usuario/ecommerce-springboot.git](https://github.com/EndoRodrigo/iris.git)
 cd iris
+```
+
+pip install notebook
+
